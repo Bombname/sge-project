@@ -1,4 +1,4 @@
-# sgv
+# sge
 Sistema Gerenciador de Estoque
 Sistema para a disciplina de Programação Orientada a Objetos em Java.
 
